@@ -67,3 +67,8 @@
 	path = unitek-solusi/OCA-reporting-engine
 	url = git@github.com:unitek-solusi/OCA-reporting-engine.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-account-invoice-reporting"]
+	path = unitek-solusi/OCA-account-invoice-reporting
+	url = git@github.com:unitek-solusi/OCA-account-invoice-reporting.git
+	branch = 11.0

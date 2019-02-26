@@ -17,3 +17,8 @@
 	path = unitek-solusi/OCA-web
 	url = git@github.com:unitek-solusi/OCA-web.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-contract"]
+	path = unitek-solusi/OCA-contract
+	url = git@github.com:unitek-solusi/OCA-contract.git
+	branch = 11.0

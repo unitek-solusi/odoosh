@@ -32,3 +32,8 @@
 	path = unitek-solusi/OCA-account-invoicing
 	url = git@github.com:unitek-solusi/OCA-account-invoicing.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-website"]
+	path = unitek-solusi/OCA-website
+	url = git@github.com:unitek-solusi/OCA-website.git
+	branch = 11.0

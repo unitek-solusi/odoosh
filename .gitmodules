@@ -37,3 +37,8 @@
 	path = unitek-solusi/OCA-website
 	url = git@github.com:unitek-solusi/OCA-website.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-server-tools"]
+	path = unitek-solusi/OCA-server-tools
+	url = git@github.com:unitek-solusi/OCA-server-tools.git
+	branch = 11.0

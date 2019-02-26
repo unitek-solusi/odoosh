@@ -62,3 +62,8 @@
 	path = unitek-solusi/OCA-project
 	url = git@github.com:unitek-solusi/OCA-project.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-reporting-engine"]
+	path = unitek-solusi/OCA-reporting-engine
+	url = git@github.com:unitek-solusi/OCA-reporting-engine.git
+	branch = 11.0

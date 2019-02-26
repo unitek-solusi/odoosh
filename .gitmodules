@@ -47,3 +47,8 @@
 	path = unitek-solusi/OCA-operating-unit
 	url = git@github.com:unitek-solusi/OCA-operating-unit.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-hr"]
+	path = unitek-solusi/OCA-hr
+	url = git@github.com:unitek-solusi/OCA-hr.git
+	branch = 11.0

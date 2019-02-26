@@ -7,3 +7,8 @@
 	path = unitek-solusi/OCA-server-ux
 	url = git@github.com:unitek-solusi/OCA-server-ux.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-sale-workflow"]
+	path = unitek-solusi/OCA-sale-workflow
+	url = git@github.com:unitek-solusi/OCA-sale-workflow.git
+	branch = 11.0

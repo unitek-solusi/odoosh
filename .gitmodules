@@ -52,3 +52,8 @@
 	path = unitek-solusi/OCA-hr
 	url = git@github.com:unitek-solusi/OCA-hr.git
 	branch = 11.0
+
+[submodule "unitek-solusi/OCA-account-financial-tools"]
+	path = unitek-solusi/OCA-account-financial-tools
+	url = git@github.com:unitek-solusi/OCA-account-financial-tools.git
+	branch = 11.0
